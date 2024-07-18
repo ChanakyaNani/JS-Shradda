@@ -78,3 +78,4 @@ const updateExchangeRate = async ()=>{
 
 // pushing the changes to remote github from vscode.
 // editing the file in github
+// testing only fetch
