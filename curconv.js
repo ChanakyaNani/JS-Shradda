@@ -74,3 +74,6 @@ const updateExchangeRate = async ()=>{
     let finalAmt = amtVal * rate;
     msg.innerText = `${amtVal} ${fromCur.value} = ${finalAmt} ${toCur.value}`;
 };
+
+
+// pushing the changes to remote github from vscode.
